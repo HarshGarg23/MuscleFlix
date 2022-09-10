@@ -24,7 +24,7 @@ const Footer = () => {
   return (
     <TableFooter>
         <Box >
-            <h1 style={{fontSize:"50px", color:"#463434" ,  textDecoration:"underline"}}>Have any Questions? Conatct Us</h1>
+            <h1 style={{fontSize:"50px", color:"#463434" ,  textDecoration:"underline"}}>Have any Questions? Contact Us</h1>
         </Box>
         <Box1 >
             <Box>
